@@ -9,6 +9,16 @@ Quest Dim은 Meta Quest용 가벼운 밝기 유틸리티입니다. Quest 기본 
 
 > Quest Dim은 비공식 커뮤니티 유틸리티이며 Meta와 제휴, 보증 또는 후원 관계가 없습니다.
 
+## 호환성 안내
+
+Quest Dim은 **Meta Quest 3 실기에서 개발 및 테스트되었습니다.**
+
+Meta Quest 2, Quest Pro, Quest 3S 등 다른 Meta Quest 기기와 기타 VR 헤드셋에서는
+동일한 동작을 보장하지 않습니다. 기기, Horizon OS/Android 버전 및 시스템 밝기 구현
+차이에 따라 일부 기능이 동작하지 않거나 예상과 다르게 동작할 수 있습니다.
+
+현재 공식적으로 동작을 확인한 기기는 **Meta Quest 3**입니다.
+
 ## 스크린샷
 
 <img src="docs/screenshots/main-ko.png" width="360" alt="Quest Dim 한국어 메인 화면">
@@ -22,7 +32,7 @@ Quest Dim은 Meta Quest용 가벼운 밝기 유틸리티입니다. Quest 기본 
 - 28dp thumb과 8dp track을 쓰는 Quest 친화적 커스텀 슬라이더
 - 영어와 한국어 UI
 - 화면 오버레이, root, Shizuku, privileged ADB, 네트워크 연결, 계정, analytics 없음
-- Meta Quest 3 실기 테스트
+- Meta Quest 3 실기 테스트 완료
 
 ## 설치
 

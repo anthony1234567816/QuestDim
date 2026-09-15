@@ -11,6 +11,17 @@ Quest brightness slider.
 > Quest Dim is an unofficial community utility. It is not affiliated with,
 > endorsed by, or sponsored by Meta.
 
+## Compatibility
+
+Quest Dim is developed and tested on a **physical Meta Quest 3**.
+
+Functionality is not guaranteed on other Meta Quest devices, including Quest 2,
+Quest Pro, and Quest 3S, or on other VR headsets. Behavior may differ depending
+on the device, Horizon OS/Android version, and the system brightness implementation.
+
+The **Meta Quest 3** is currently the only device on which Quest Dim has been
+officially tested.
+
 ## Screenshots
 
 <img src="docs/screenshots/main-en.png" width="360" alt="Quest Dim main screen in English">
