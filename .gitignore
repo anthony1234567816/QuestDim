@@ -1,0 +1,26 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Android Studio and local SDK configuration
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# Signing material and local release configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+key.properties
+signing.properties
+
+# Locally generated distribution artifacts
+dist/
+app/release/

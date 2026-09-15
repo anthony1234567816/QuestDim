@@ -1,0 +1,5 @@
+# Copy to signing.properties and fill these values locally. Never commit signing.properties.
+storeFile=keystore/QuestDim-release.jks
+storePassword=
+keyAlias=
+keyPassword=

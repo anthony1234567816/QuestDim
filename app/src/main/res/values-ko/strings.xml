@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quest Dim</string>
+    <string name="app_subtitle">어두운 환경에서 Quest를 더 편안하게\n사용하세요.</string>
+    <string name="brightness_level">밝기 단계</string>
+    <string name="brightness_slider_description">밝기 단계, 1부터 45까지</string>
+    <string name="darkest">가장 어둡게</string>
+    <string name="meta_minimum">Meta 기본 최소</string>
+    <string name="preset_night">야간</string>
+    <string name="preset_dim">낮게</string>
+    <string name="preset_meta">Meta 기본</string>
+    <string name="system_access">시스템 접근</string>
+    <string name="allowed">허용됨</string>
+    <string name="restore_previous_brightness">이전 밝기로 복원</string>
+    <string name="permission_title">시스템 접근 허용</string>
+    <string name="permission_description">Quest Dim이 시스템 화면 밝기를 조절하려면 권한이 필요합니다.</string>
+    <string name="permission_step_1">시스템 설정을 엽니다</string>
+    <string name="permission_step_2">“시스템 설정 변경 허용”을 활성화합니다</string>
+    <string name="permission_step_3">Quest Dim으로 돌아옵니다</string>
+    <string name="open_settings">설정 열기</string>
+</resources>

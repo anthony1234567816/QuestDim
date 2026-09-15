@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quest Dim</string>
+    <string name="app_subtitle">Make your Quest comfortable\nin the dark.</string>
+    <string name="brightness_level">Brightness level</string>
+    <string name="brightness_slider_description">Brightness level, from 1 to 45</string>
+    <string name="darkest">Darkest</string>
+    <string name="meta_minimum">Meta minimum</string>
+    <string name="preset_night">Night</string>
+    <string name="preset_dim">Dim</string>
+    <string name="preset_meta">Meta</string>
+    <string name="system_access">System access</string>
+    <string name="allowed">Allowed</string>
+    <string name="restore_previous_brightness">Restore previous brightness</string>
+    <string name="permission_title">Allow system access</string>
+    <string name="permission_description">Quest Dim needs permission to change system display brightness.</string>
+    <string name="permission_step_1">Open system settings</string>
+    <string name="permission_step_2">Enable “Allow modifying system settings”</string>
+    <string name="permission_step_3">Return to Quest Dim</string>
+    <string name="open_settings">Open settings</string>
+</resources>

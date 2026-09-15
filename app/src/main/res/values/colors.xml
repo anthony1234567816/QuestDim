@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#10151C</color>
+    <color name="surface">#1A212A</color>
+    <color name="surface_selected">#213C65</color>
+    <color name="text_primary">#F5F7FA</color>
+    <color name="text_secondary">#B9C1CD</color>
+    <color name="accent">#438BFF</color>
+    <color name="accent_pressed">#3777D8</color>
+    <color name="track">#27313D</color>
+    <color name="success">#42C982</color>
+    <color name="button_primary_text">#FFFFFF</color>
+    <color name="disabled">#66717F</color>
+    <color name="launcher_icon_background">#071436</color>
+</resources>
